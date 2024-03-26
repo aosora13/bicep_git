@@ -1,5 +1,5 @@
 param location string = 'centralus'
-param StorageName string = 'ga-storage132'
+param StorageName string = 'gastorage1326'
 
 resource storageaccount 'Microsoft.Storage/storageAccounts@2023-01-01' = {
   name: StorageName
