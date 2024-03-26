@@ -1,6 +1,6 @@
 param location string = resourceGroup().location
-param storageName string = 'bicepstgacct03212024'
-param namePrefix string = 'tomsbicep2'
+param storageName string = 'bicepstgacct03212025'
+param namePrefix string = 'tomsbicep24'
 targetScope = 'resourceGroup'
 
 param dockerImage string = 'ubuntu/nginx'
