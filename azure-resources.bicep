@@ -1,5 +1,5 @@
 param location string = resourceGroup().location
-param storageName string = 'bicepstgacct03212025'
+param storageName string = 'bicepstgacct03212026'
 param namePrefix string = 'tomsbicep24'
 targetScope = 'resourceGroup'
 
